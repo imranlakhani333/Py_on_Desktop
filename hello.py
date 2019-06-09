@@ -110,3 +110,4 @@ if isCNICValid.lower() == 'yes':
         print('Please go to booth B')
 else:
         print('Please go home')
+# "!" means not like if ! True means if not true
